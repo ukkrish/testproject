@@ -11,6 +11,7 @@ public class Helloworld {
         int j = 7;
 
         System.out.println ("\n hello world, the total is: "+i+j);
+        System.out.println ("\n Test for GIT: "+(j-i));
 
     }
 }
