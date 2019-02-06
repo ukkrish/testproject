@@ -5,13 +5,12 @@ import org.junit.Test;
 public class Helloworld {
 
 
-    @Test
-    public void sumofnums() {
-        int i = 5;
-        int j = 7;
+   @Test
 
-        System.out.println ("\n hello world, the total is: "+i+j);
-        System.out.println ("\n Test for GIT: "+(j-i));
 
-    }
+
+    public static void anotherTest() {
+
+       System.out.println("removed old method and added a new one");
+   }
 }
